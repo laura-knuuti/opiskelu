@@ -1,0 +1,17 @@
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\bin\Debug\net7.0-windows\10_kysymystä.exe
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\bin\Debug\net7.0-windows\10_kysymystä.deps.json
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\bin\Debug\net7.0-windows\10_kysymystä.runtimeconfig.json
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\bin\Debug\net7.0-windows\10_kysymystä.dll
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\bin\Debug\net7.0-windows\10_kysymystä.pdb
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.csproj.AssemblyReference.cache
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\_10_kysymystä.lomake_form.resources
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.csproj.GenerateResource.cache
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.AssemblyInfoInputs.cache
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.AssemblyInfo.cs
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.dll
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\refint\10_kysymystä.dll
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.pdb
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\10_kysymystä.genruntimeconfig.cache
+C:\Users\laura.knuuti\source\repos\10_kysymystä\10_kysymystä\obj\Debug\net7.0-windows\ref\10_kysymystä.dll

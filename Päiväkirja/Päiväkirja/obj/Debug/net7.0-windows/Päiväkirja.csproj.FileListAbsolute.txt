@@ -1,0 +1,17 @@
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\bin\Debug\net7.0-windows\Päiväkirja.exe
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\bin\Debug\net7.0-windows\Päiväkirja.deps.json
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\bin\Debug\net7.0-windows\Päiväkirja.runtimeconfig.json
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\bin\Debug\net7.0-windows\Päiväkirja.dll
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\bin\Debug\net7.0-windows\Päiväkirja.pdb
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.csproj.AssemblyReference.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.paivakirjaForm.resources
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.csproj.GenerateResource.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.AssemblyInfoInputs.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.AssemblyInfo.cs
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.csproj.CoreCompileInputs.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.dll
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\refint\Päiväkirja.dll
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.pdb
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\Päiväkirja.genruntimeconfig.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\Päiväkirja\Päiväkirja\obj\Debug\net7.0-windows\ref\Päiväkirja.dll

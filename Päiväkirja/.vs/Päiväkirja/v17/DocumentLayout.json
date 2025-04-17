@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\source\\repos\\P\u00E4iv\u00E4kirja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71DF782C-2A06-4412-BEE5-FF00683039FE}|P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja.csproj|C:\\Users\\laura\\source\\repos\\P\u00E4iv\u00E4kirja\\p\u00E4iv\u00E4kirja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71DF782C-2A06-4412-BEE5-FF00683039FE}|P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja.csproj|solutionrelative:p\u00E4iv\u00E4kirja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DF782C-2A06-4412-BEE5-FF00683039FE}|P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja.csproj|c:\\users\\laura\\source\\repos\\p\u00E4iv\u00E4kirja\\p\u00E4iv\u00E4kirja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DF782C-2A06-4412-BEE5-FF00683039FE}|P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja.csproj|solutionrelative:p\u00E4iv\u00E4kirja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja\\Form1.cs",
+              "RelativeDocumentMoniker": "P\u00E4iv\u00E4kirja\\Form1.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\repos\\P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja\\Form1.cs",
+              "RelativeToolTip": "P\u00E4iv\u00E4kirja\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:47:21.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja\\Form1.cs",
+              "RelativeDocumentMoniker": "P\u00E4iv\u00E4kirja\\Form1.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\repos\\P\u00E4iv\u00E4kirja\\P\u00E4iv\u00E4kirja\\Form1.cs [Design]",
+              "RelativeToolTip": "P\u00E4iv\u00E4kirja\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:47:21.732Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\laura\source\repos\ajastin\ajastin\bin\Debug\net6.0-windows\ajastin.exe
+C:\Users\laura\source\repos\ajastin\ajastin\bin\Debug\net6.0-windows\ajastin.deps.json
+C:\Users\laura\source\repos\ajastin\ajastin\bin\Debug\net6.0-windows\ajastin.runtimeconfig.json
+C:\Users\laura\source\repos\ajastin\ajastin\bin\Debug\net6.0-windows\ajastin.dll
+C:\Users\laura\source\repos\ajastin\ajastin\bin\Debug\net6.0-windows\ajastin.pdb
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.ajastinForm.resources
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.csproj.GenerateResource.cache
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.AssemblyInfo.cs
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.sourcelink.json
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.dll
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\refint\ajastin.dll
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.pdb
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ajastin.genruntimeconfig.cache
+C:\Users\laura\source\repos\ajastin\ajastin\obj\Debug\net6.0-windows\ref\ajastin.dll

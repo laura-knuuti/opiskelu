@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "r77vcf+i/uI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laura\\source\\repos\\kahvila\\kahvila\\kahvila.csproj",
+=======
+  "dgSpecHash": "YXCoMqAm9eETWBMiFbzpL32bV4HS7s49skocHaSaKiieWdQ7VQ4RTv23goSqMB5VqmwIAO2QPpf7pEuerGOYIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laura.knuuti\\source\\Kevät2025\\Csharp\\kahvila\\kahvila\\kahvila.csproj",
+>>>>>>> f26e103f67247c5f9c7fb11a1c765e528c52e2c0
+  "expectedPackageFiles": [],
+  "logs": []
+}

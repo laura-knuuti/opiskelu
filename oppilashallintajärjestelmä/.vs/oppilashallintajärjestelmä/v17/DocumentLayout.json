@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|c:\\users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:oppilashallintaj\u00E4rjestelm\u00E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:oppilashallintaj\u00E4rjestelm\u00E4\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:oppilashallintaj\u00E4rjestelm\u00E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\opiskelija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDFBFAE-21C6-4F52-BC36-9BD438E052F8}|oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4.csproj|solutionrelative:oppilashallintaj\u00E4rjestelm\u00E4\\opiskelija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs",
+              "RelativeDocumentMoniker": "oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs",
+              "RelativeToolTip": "oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwvwoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:45:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opiskelija.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Opiskelija.cs",
+              "RelativeDocumentMoniker": "oppilashallintaj\u00E4rjestelm\u00E4\\Opiskelija.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Opiskelija.cs",
+              "RelativeToolTip": "oppilashallintaj\u00E4rjestelm\u00E4\\Opiskelija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:45:45.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs",
+              "RelativeDocumentMoniker": "oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs",
+              "ToolTip": "C:\\Users\\laura.knuuti\\source\\Kev\u00E4t2025\\Csharp\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\laura.knuuti\\source\\Kev\u00E4t2025\\Csharp\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-09T12:45:45.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yhdista.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
+              "RelativeDocumentMoniker": "oppilashallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\repos\\oppilashallintaj\u00E4rjestelm\u00E4\\oppilashallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
+              "RelativeToolTip": "oppilashallintaj\u00E4rjestelm\u00E4\\Yhdista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:45:45.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

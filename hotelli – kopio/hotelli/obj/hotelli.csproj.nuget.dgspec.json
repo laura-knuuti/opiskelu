@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\hotelli.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\hotelli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\hotelli.csproj",
+        "projectName": "hotelli",
+        "projectPath": "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\hotelli.csproj",
+        "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\obj\\",
+=======
+    "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\hotelli.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\hotelli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\hotelli.csproj",
+        "projectName": "hotelli",
+        "projectPath": "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\hotelli.csproj",
+        "packagesPath": "C:\\Users\\laura.knuuti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\obj\\",
+>>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\laura.knuuti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+<<<<<<< HEAD
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+=======
+        }
+>>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Eramake.eCryptography": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+>>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
+        }
+      }
+    }
+  }
+}

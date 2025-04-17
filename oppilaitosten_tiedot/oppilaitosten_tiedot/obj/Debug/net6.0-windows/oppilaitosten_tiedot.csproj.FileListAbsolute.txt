@@ -1,0 +1,17 @@
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\bin\Debug\net6.0-windows\oppilaitosten_tiedot.exe
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\bin\Debug\net6.0-windows\oppilaitosten_tiedot.deps.json
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\bin\Debug\net6.0-windows\oppilaitosten_tiedot.runtimeconfig.json
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\bin\Debug\net6.0-windows\oppilaitosten_tiedot.dll
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\bin\Debug\net6.0-windows\oppilaitosten_tiedot.pdb
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.csproj.AssemblyReference.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.avainhloForm.resources
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.csproj.GenerateResource.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.AssemblyInfoInputs.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.AssemblyInfo.cs
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.csproj.CoreCompileInputs.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.dll
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\refint\oppilaitosten_tiedot.dll
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.pdb
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\oppilaitosten_tiedot.genruntimeconfig.cache
+C:\Users\laura.knuuti\source\repos\Kevät2025\oppilaitosten_tiedot\oppilaitosten_tiedot\obj\Debug\net6.0-windows\ref\oppilaitosten_tiedot.dll

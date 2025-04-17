@@ -1,0 +1,16 @@
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\bin\Debug\net6.0-windows\roomalaiset_numerot.exe
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\bin\Debug\net6.0-windows\roomalaiset_numerot.deps.json
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\bin\Debug\net6.0-windows\roomalaiset_numerot.runtimeconfig.json
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\bin\Debug\net6.0-windows\roomalaiset_numerot.dll
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\bin\Debug\net6.0-windows\roomalaiset_numerot.pdb
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.RoNuForm.resources
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.csproj.GenerateResource.cache
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.AssemblyInfo.cs
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.dll
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\refint\roomalaiset_numerot.dll
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.pdb
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\roomalaiset_numerot.genruntimeconfig.cache
+C:\Users\laura\source\repos\roomalaiset_numerot\roomalaiset_numerot\obj\Debug\net6.0-windows\ref\roomalaiset_numerot.dll

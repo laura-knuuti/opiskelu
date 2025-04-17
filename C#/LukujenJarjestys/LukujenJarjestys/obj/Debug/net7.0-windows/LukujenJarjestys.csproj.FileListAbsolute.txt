@@ -1,0 +1,17 @@
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\bin\Debug\net7.0-windows\LukujenJarjestys.exe
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\bin\Debug\net7.0-windows\LukujenJarjestys.deps.json
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\bin\Debug\net7.0-windows\LukujenJarjestys.runtimeconfig.json
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\bin\Debug\net7.0-windows\LukujenJarjestys.dll
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\bin\Debug\net7.0-windows\LukujenJarjestys.pdb
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.AssemblyInfoInputs.cache
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.AssemblyInfo.cs
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.dll
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\refint\LukujenJarjestys.dll
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.pdb
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\LukujenJarjestys.genruntimeconfig.cache
+C:\Users\laura.knuuti\source\repos\LukujenJarjestys\LukujenJarjestys\obj\Debug\net7.0-windows\ref\LukujenJarjestys.dll

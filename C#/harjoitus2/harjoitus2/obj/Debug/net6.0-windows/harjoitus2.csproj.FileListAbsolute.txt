@@ -1,0 +1,17 @@
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\bin\Debug\net6.0-windows\harjoitus2.exe
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\bin\Debug\net6.0-windows\harjoitus2.deps.json
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\bin\Debug\net6.0-windows\harjoitus2.runtimeconfig.json
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\bin\Debug\net6.0-windows\harjoitus2.dll
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\bin\Debug\net6.0-windows\harjoitus2.pdb
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.csproj.AssemblyReference.cache
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.OtsikkoLB.resources
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.csproj.GenerateResource.cache
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.AssemblyInfoInputs.cache
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.AssemblyInfo.cs
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.dll
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\refint\harjoitus2.dll
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.pdb
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\harjoitus2.genruntimeconfig.cache
+C:\Users\laura.knuuti\source\repos\harjoitus2\harjoitus2\obj\Debug\net6.0-windows\ref\harjoitus2.dll
