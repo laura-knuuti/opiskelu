@@ -35,17 +35,10 @@ namespace hotelli
 
             adapteri.SelectCommand = komento;
             adapteri.Fill(taulu);
-<<<<<<< HEAD
 
             //tarkistetaan onko käyttäjänimi tietokannassa, eli jos rivi tulee yhdistelmä olemassa
 
             if (taulu.Rows.Count > 0)
-=======
-            
-            //tarkistetaan onko käyttäjänimi tietokannassa, eli jos rivi tulee yhdistelmä olemassa
-
-            if(taulu.Rows.Count > 0)
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
             {
                 //piilotetaan lomake ja avataan pääikkuna
                 this.Hide();
@@ -66,22 +59,16 @@ namespace hotelli
 
                 }
                 //kentät on täytetty, mutta yhdistelmää ei löydy
-<<<<<<< HEAD
                 else
-=======
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
                 {
                     MessageBox.Show("Käyttäjänimeä tai salasanaa ei löydy", "Tietoja ei löydy", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
-<<<<<<< HEAD
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
-=======
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     }
 }

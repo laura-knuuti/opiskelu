@@ -62,7 +62,6 @@ C:\Users\laura.knuuti\source\Csharp\hotelli – kopio\hotelli\obj\Debug\net6.0-w
 C:\Users\laura.knuuti\source\Csharp\hotelli – kopio\hotelli\obj\Debug\net6.0-windows\hotelli.pdb
 C:\Users\laura.knuuti\source\Csharp\hotelli – kopio\hotelli\obj\Debug\net6.0-windows\hotelli.genruntimeconfig.cache
 C:\Users\laura.knuuti\source\Csharp\hotelli – kopio\hotelli\obj\Debug\net6.0-windows\ref\hotelli.dll
-<<<<<<< HEAD
 C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\bin\Debug\net6.0-windows\hotelli.exe
 C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\bin\Debug\net6.0-windows\hotelli.deps.json
 C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\bin\Debug\net6.0-windows\hotelli.runtimeconfig.json
@@ -118,5 +117,3 @@ C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\obj\Debug\net6.0-w
 C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\obj\Debug\net6.0-windows\hotelli.pdb
 C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\obj\Debug\net6.0-windows\hotelli.genruntimeconfig.cache
 C:\Users\laura\OneDrive\Työpöytä\hotelli – kopio\hotelli\obj\Debug\net6.0-windows\ref\hotelli.dll
-=======
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38

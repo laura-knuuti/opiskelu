@@ -28,102 +28,106 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.hallitseAsiakkaitaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.hallitseVarauksiaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.hallitseHuoneitaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.panel1.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
+            pictureBox1 = new PictureBox();
+            panel1 = new Panel();
+            label1 = new Label();
+            menuStrip1 = new MenuStrip();
+            hallitseAsiakkaitaToolStripMenuItem = new ToolStripMenuItem();
+            hallitseVarauksiaToolStripMenuItem = new ToolStripMenuItem();
+            hallitseHuoneitaToolStripMenuItem = new ToolStripMenuItem();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel1.SuspendLayout();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::hotelli.Properties.Resources.hotel_room_vacation_travel_vacation_6fb43b_1024;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 23);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(802, 538);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            pictureBox1.Image = Properties.Resources.hotel_room_vacation_travel_vacation_6fb43b_1024;
+            pictureBox1.Location = new Point(0, 38);
+            pictureBox1.Margin = new Padding(4, 5, 4, 5);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(1146, 897);
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.LightSeaGreen;
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(421, 43);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(360, 85);
-            this.panel1.TabIndex = 1;
+            panel1.BackColor = Color.LightSeaGreen;
+            panel1.Controls.Add(label1);
+            panel1.Location = new Point(601, 72);
+            panel1.Margin = new Padding(4, 5, 4, 5);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(514, 142);
+            panel1.TabIndex = 1;
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.Wheat;
-            this.label1.Location = new System.Drawing.Point(18, 16);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(326, 50);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Tervetuloa hotellin hallintasivustolle.\r\nValitse valikosta, mitä haluat tehdä!";
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.Wheat;
+            label1.Location = new Point(26, 27);
+            label1.Margin = new Padding(4, 0, 4, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(499, 80);
+            label1.TabIndex = 0;
+            label1.Text = "Tervetuloa hotellin hallintasivustolle.\r\nValitse valikosta, mitä haluat tehdä!";
             // 
             // menuStrip1
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.hallitseAsiakkaitaToolStripMenuItem,
-            this.hallitseVarauksiaToolStripMenuItem,
-            this.hallitseHuoneitaToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(802, 24);
-            this.menuStrip1.TabIndex = 2;
-            this.menuStrip1.Text = "menuStrip1";
+            menuStrip1.ImageScalingSize = new Size(24, 24);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { hallitseAsiakkaitaToolStripMenuItem, hallitseVarauksiaToolStripMenuItem, hallitseHuoneitaToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Padding = new Padding(9, 3, 0, 3);
+            menuStrip1.Size = new Size(1146, 35);
+            menuStrip1.TabIndex = 2;
+            menuStrip1.Text = "menuStrip1";
             // 
             // hallitseAsiakkaitaToolStripMenuItem
             // 
-            this.hallitseAsiakkaitaToolStripMenuItem.Name = "hallitseAsiakkaitaToolStripMenuItem";
-            this.hallitseAsiakkaitaToolStripMenuItem.Size = new System.Drawing.Size(112, 20);
-            this.hallitseAsiakkaitaToolStripMenuItem.Text = "Hallitse asiakkaita";
-            this.hallitseAsiakkaitaToolStripMenuItem.Click += new System.EventHandler(this.hallitseAsiakkaitaToolStripMenuItem_Click);
+            hallitseAsiakkaitaToolStripMenuItem.Name = "hallitseAsiakkaitaToolStripMenuItem";
+            hallitseAsiakkaitaToolStripMenuItem.Size = new Size(166, 29);
+            hallitseAsiakkaitaToolStripMenuItem.Text = "Hallitse asiakkaita";
+            hallitseAsiakkaitaToolStripMenuItem.Click += hallitseAsiakkaitaToolStripMenuItem_Click;
             // 
             // hallitseVarauksiaToolStripMenuItem
             // 
-            this.hallitseVarauksiaToolStripMenuItem.Name = "hallitseVarauksiaToolStripMenuItem";
-            this.hallitseVarauksiaToolStripMenuItem.Size = new System.Drawing.Size(110, 20);
-            this.hallitseVarauksiaToolStripMenuItem.Text = "Hallitse varauksia";
-            this.hallitseVarauksiaToolStripMenuItem.Click += new System.EventHandler(this.hallitseVarauksiaToolStripMenuItem_Click);
+            hallitseVarauksiaToolStripMenuItem.Name = "hallitseVarauksiaToolStripMenuItem";
+            hallitseVarauksiaToolStripMenuItem.Size = new Size(163, 29);
+            hallitseVarauksiaToolStripMenuItem.Text = "Hallitse varauksia";
+            hallitseVarauksiaToolStripMenuItem.Click += hallitseVarauksiaToolStripMenuItem_Click;
             // 
             // hallitseHuoneitaToolStripMenuItem
             // 
-            this.hallitseHuoneitaToolStripMenuItem.Name = "hallitseHuoneitaToolStripMenuItem";
-            this.hallitseHuoneitaToolStripMenuItem.Size = new System.Drawing.Size(108, 20);
-            this.hallitseHuoneitaToolStripMenuItem.Text = "Hallitse huoneita";
-            this.hallitseHuoneitaToolStripMenuItem.Click += new System.EventHandler(this.hallitseHuoneitaToolStripMenuItem_Click);
+            hallitseHuoneitaToolStripMenuItem.Name = "hallitseHuoneitaToolStripMenuItem";
+            hallitseHuoneitaToolStripMenuItem.Size = new Size(159, 29);
+            hallitseHuoneitaToolStripMenuItem.Text = "Hallitse huoneita";
+            hallitseHuoneitaToolStripMenuItem.Click += hallitseHuoneitaToolStripMenuItem_Click;
             // 
             // Paaikkuna
             // 
-            this.AccessibleName = "";
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(802, 560);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.menuStrip1);
-            this.Cursor = System.Windows.Forms.Cursors.No;
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Paaikkuna";
-            this.Text = "Paaikkuna";
-            this.Load += new System.EventHandler(this.Paaikkuna_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            AccessibleName = "";
+            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleMode = AutoScaleMode.Font;
+            AutoSize = true;
+            ClientSize = new Size(1146, 933);
+            Controls.Add(panel1);
+            Controls.Add(pictureBox1);
+            Controls.Add(menuStrip1);
+            Cursor = Cursors.No;
+            MainMenuStrip = menuStrip1;
+            Margin = new Padding(4, 5, 4, 5);
+            Name = "Paaikkuna";
+            Text = "Paaikkuna";
+            Load += Paaikkuna_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
 
         }
 

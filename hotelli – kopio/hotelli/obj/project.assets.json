@@ -1814,39 +1814,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\laura\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\laura.knuuti\\.nuget\\packages\\": {},
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\hotelli.csproj",
       "projectName": "hotelli",
       "projectPath": "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\hotelli.csproj",
       "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\laura\\OneDrive\\Työpöytä\\hotelli – kopio\\hotelli\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\hotelli.csproj",
-      "projectName": "hotelli",
-      "projectPath": "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\hotelli.csproj",
-      "packagesPath": "C:\\Users\\laura.knuuti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laura.knuuti\\source\\Csharp\\hotelli – kopio\\hotelli\\obj\\",
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\laura.knuuti\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1855,10 +1839,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
-        "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1871,7 +1851,6 @@
         "warnAsError": [
           "NU1605"
         ]
-<<<<<<< HEAD
       },
       "restoreAuditProperties": {
         "enableAudit": "true",
@@ -1879,9 +1858,6 @@
         "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.200"
-=======
-      }
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -1919,11 +1895,7 @@
             "privateAssets": "none"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
       }
     }
   },

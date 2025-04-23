@@ -10,11 +10,7 @@ using System.Windows.Forms;
 
 namespace hotelli
 {
-<<<<<<< HEAD
     public partial class VaraustenHallinta : Form
-=======
-    public partial class VaraustenHallinta: Form
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     {
         Huone huone = new Huone();
         Asiakas asiakas = new Asiakas();
@@ -23,7 +19,7 @@ namespace hotelli
         {
             InitializeComponent();
         }
-
+         
         private void VaraustenHallinta_Load(object sender, EventArgs e)
         {
             //haetaan listaus funktiosta huonetyyppilista
@@ -97,11 +93,7 @@ namespace hotelli
                     MessageBox.Show("Huonetta ei pystytty muokkaamaan", "Huoneen muokkaus", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-<<<<<<< HEAD
             catch (Exception ex)
-=======
-            catch (Exception ex) 
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
             {
                 MessageBox.Show("Virhe " + ex.Message, "Huoneen numero virhe", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -128,8 +120,9 @@ namespace hotelli
         {
             try
             {
-                String varausnro = varausnroTB.Text;
-                int huonenro = huonenroCB.SelectedIndex;
+                int varausnro = Convert.ToInt32(varausnroTB.Text);
+                /*int huonenro = huonenroCB.SelectedIndex;*/
+                int huonenro = Convert.ToInt32(huonenroCB.SelectedValue);
 
                 if (varaus.poistaVaraus(varausnro))
                 {
@@ -153,7 +146,6 @@ namespace hotelli
         {
 
         }
-<<<<<<< HEAD
 
         private void ulosDTP_ValueChanged(object sender, EventArgs e)
         {
@@ -165,19 +157,17 @@ namespace hotelli
 
             }
             else MessageBox.Show("Tämä päivä on varattu tuossa huoneessa", "Päivämäärän tarkastus", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            tyhjennaBT.PerformClick();
+            //tyhjennaBT.PerformClick();
         }
 
         private void tyhjennaBT_Click(object sender, EventArgs e)
         {
             varausnroTB.Text = "";
             asiakasCB.SelectedIndex = -1;
-            huonetyyppiCB.SelectedIndex = 0;
-            huonenroCB.SelectedIndex = 0;
+            huonetyyppiCB.SelectedIndex = -1;
+            huonenroCB.SelectedIndex = -1;
             sisaanDTP.Value = DateTime.Now;
-            ulosDTP.Value = DateTime.Now;
+            ulosDTP.Value = DateTime.Now.AddDays(1);
         }
-=======
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     }
 }

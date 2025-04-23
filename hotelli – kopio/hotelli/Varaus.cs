@@ -5,9 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using MySql.Data.MySqlClient;
-using Eramake;
-using Google.Protobuf.WellKnownTypes;
-using System.Linq.Expressions;
 
 
 namespace hotelli
@@ -21,7 +18,7 @@ namespace hotelli
         //haetaan kaikki varaukset
         public DataTable huonetyyppilista()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT = FROM huonekategoria", yhteys.OtaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT * FROM huonekategoria", yhteys.OtaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
 
@@ -32,7 +29,7 @@ namespace hotelli
 
         public DataTable haeVaraukset()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT = FROM varaukset", yhteys.OtaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT * FROM varaukset", yhteys.OtaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
 
@@ -71,32 +68,25 @@ namespace hotelli
                 }
             }
             catch (Exception ex)
-            {
+            { /*
                 MessageBox.Show("Virhe: " + ex);
-                return true;
+                return true;*/
+                MessageBox.Show("Virhe " + ex.Message);
+                return false;
             }
         }
         public bool muokkaaVarausta(int hnro, int asid, DateTime sisaan, DateTime ulos, int vara)
         {
             MySqlCommand komento = new MySqlCommand();
             String paivityskysely = "UPDATE `varaukset` SET `HuoneenNro` = @hnro," +
-<<<<<<< HEAD
                 "`AsiakasId` = @aid, `Sisaan` = @sis, `Ulos` = @ulo WHERE VarausId = @vid";
-=======
-                "`AsiakasId` = @aid, `Sisaan` = @sis, `Ulos` = @ulo" +
-             "WHERE VarausId = @vid";
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.OtaYhteys();
             komento.Parameters.Add("@hnro", MySqlDbType.Int32).Value = hnro;
             komento.Parameters.Add("@aid", MySqlDbType.Int32).Value = asid;
             komento.Parameters.Add("@sis", MySqlDbType.Date).Value = sisaan;
             komento.Parameters.Add("@ulo", MySqlDbType.Date).Value = ulos;
-<<<<<<< HEAD
             komento.Parameters.Add("@vid", MySqlDbType.Int32).Value = vara;
-=======
-            komento.Parameters.Add("@ulo", MySqlDbType.Int32).Value = vara;
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
 
             yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
@@ -110,13 +100,13 @@ namespace hotelli
                 return false;
             }
         }
-        public bool poistaVaraus(String varausnro)
+        public bool poistaVaraus(int varausnro)
         {
             MySqlCommand komento = new MySqlCommand();
             String poistokysely = "DELETE FROM varaukset WHERE VarausId = @vno";
             komento.CommandText = poistokysely;
             komento.Connection = yhteys.OtaYhteys();
-            komento.Parameters.Add("@vno", MySqlDbType.VarChar).Value = varausnro;
+            komento.Parameters.Add("@vno", MySqlDbType.Int32).Value = varausnro;
 
 
             yhteys.avaaYhteys();
@@ -131,7 +121,6 @@ namespace hotelli
                 return false;
             }
         }
-<<<<<<< HEAD
 
         //funktion kutsussa annetaan valittu sisääntulo ja uloslähtö sekä huoneen numero
         public bool tarkistaPaiva(DateTime sis, DateTime ulo, int huone)
@@ -139,10 +128,13 @@ namespace hotelli
             //Tehdään listat jo varatuille ajoille - yksi sisäänkirjautumista ja toinen uloskirjautumista varten
             List<DateTime> inside = new List<DateTime>();
             List<DateTime> outside = new List<DateTime>();
+
             //Tehdään muuttuja, joka palautetaan lopussa
             bool onValissa = true;
+
             //Otetaan yhteyttä tietokantaan
             MySqlCommand komento = new MySqlCommand();
+
             //Haetaan tietokannasta ne tiedot, jotka vastaavat annettua huonetta
             String kysely = "Select * FROM varaukset WHERE HuoneenNro = @hnro";
 
@@ -164,21 +156,24 @@ namespace hotelli
                     }
                 }
             }
+
+            //tarkistaa menevätkö varaukset päällekkäin
             for (int i = 0; i < inside.Count; i++)
             {
-                if (inside[1] <= sis && sis <= outside[i])
+                if (inside[i] < ulo && sis < outside[i])
                 {
-                    i = inside.Count;
+                    /*
+                    i = inside.Count;*/
                     onValissa = false;
-                }
+                    break;         
+                        }
+                /*
                 else
                 {
                     onValissa = true;
-                }
+                }*/ 
             }
             return onValissa;
         }
-=======
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     }
 }

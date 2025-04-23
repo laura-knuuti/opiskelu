@@ -20,7 +20,7 @@ namespace hotelli
         {
             MySqlCommand komento = new MySqlCommand();
             String lisayskysely = "INSERT INTO asiakkaat" +
-            "(kayttajanimi, Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka, Salasana) " +
+            "(Kayttajanimi, Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka, Salasana) " +
             "VALUES (@ktu, @enm, @snm, @oso, @pno, @ptp, @ssa); ";
             komento.CommandText = lisayskysely;
             komento.Connection = yhteys.OtaYhteys();
@@ -43,6 +43,7 @@ namespace hotelli
             }
             else
             {
+                string salasana = luoSalasana();
                 komento.Parameters.Add("@ssa", MySqlDbType.VarChar).Value = eCryptography.Encrypt(luoSalasana());
                 MessageBox.Show(luoSalasana());
             }
@@ -67,7 +68,7 @@ namespace hotelli
             char[] alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMOPQRSTUVWXYZ!?@#&%€$+-0123456789".ToCharArray();
             Random satunnaisluku = new Random();
             String salasana = "";
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < 10; i++)
             {
                 int indeksi = satunnaisluku.Next(alpha.Length);
                 salasana += alpha[indeksi];
@@ -77,14 +78,16 @@ namespace hotelli
 
         //funktio asiakastietojen etsimiseen
         public DataTable haeAsiakkaat()
-        {
-            MySqlCommand komento = new MySqlCommand("SELECT Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka, kayttajanimi FROM asiakkaat", yhteys.OtaYhteys());
-            MySqlDataAdapter adapteri = new MySqlDataAdapter();
-            DataTable taulu = new DataTable();
+        {                                                  //CONCAT = yhdistää etunimen ja sukunimen yhdeksi (Kokonimi)
+            MySqlCommand komento = new MySqlCommand("SELECT AsiakasId, CONCAT(Etunimi, ' ', Sukunimi) AS Kokonimi, Lahiosoite, Postinumero, Postitoimipaikka, Kayttajanimi FROM asiakkaat", yhteys.OtaYhteys());
+            {
+                MySqlDataAdapter adapteri = new MySqlDataAdapter();
+                DataTable taulu = new DataTable();
 
-            adapteri.SelectCommand = komento;
-            adapteri.Fill(taulu);
-            return taulu;
+                adapteri.SelectCommand = komento;
+                adapteri.Fill(taulu);
+                return taulu;
+            }
         }
 
     //funktio asiakkaiden muokkaamiseen
@@ -94,7 +97,7 @@ namespace hotelli
             MySqlCommand komento = new MySqlCommand();
             String paivityskysely = "UPDATE `asiakkaat` SET `Etunimi` = @enm," +
                 "`Sukunimi` = @snm, `Lahiosoite` = @oso, `Postinumero` = @pno, `Postitoimipaikka` = @ptp " +
-                "WHERE kayttajanimi = @ktu";
+                "WHERE Kayttajanimi = @ktu";
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.OtaYhteys();
             komento.Parameters.Add("@enm", MySqlDbType.VarChar).Value = enimi;
@@ -120,7 +123,7 @@ namespace hotelli
         public bool poistaAsiakas(String kayttaja)
         {
             MySqlCommand komento = new MySqlCommand();
-            String poistokysely = "DELETE FROM asiakkaat WHERE kayttajanimi = @ktu";
+            String poistokysely = "DELETE FROM asiakkaat WHERE Kayttajanimi = @ktu";
             komento.CommandText = poistokysely;
             komento.Connection = yhteys.OtaYhteys();
             komento.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = kayttaja;

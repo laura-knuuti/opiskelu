@@ -40,13 +40,10 @@ namespace hotelli
             yhteys.Close();
             }
         }
-<<<<<<< HEAD
 
         public string yhteyslause()
         {
             return yhteys.ConnectionString;
         }
-=======
->>>>>>> ac8d35c9fd774df789e711954dd4290568ec6c38
     }
 }
