@@ -34,10 +34,29 @@ namespace hotelli
         }
 
         private void lisaahuoneBT_Click(object sender, EventArgs e)
-        {
+        {   /*
             int numero = Convert.ToInt32(huonenroTB.Text);
             int tyyppi = Convert.ToInt32(huonetyyppiCB.SelectedValue.ToString());
-            String puhelin = puhelinTB.Text;
+            String puhelin = puhelinTB.Text;*/
+
+
+            if (string.IsNullOrWhiteSpace(huonenroTB.Text) ||
+                string.IsNullOrWhiteSpace(puhelinTB.Text) ||
+             huonetyyppiCB.SelectedItem == null)
+            {
+                MessageBox.Show("Täytä kaikki kentät ennen lisäämistä.", "Puuttuvat tiedot", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!int.TryParse(huonenroTB.Text, out int numero))
+            {
+                MessageBox.Show("Huonenumero täytyy olla numero.", "Virheellinen syöte", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            int tyyppi = Convert.ToInt32(huonetyyppiCB.SelectedValue.ToString());
+            string puhelin = puhelinTB.Text;
+
             if (huone.lisaaHuone(numero, tyyppi, puhelin, "Kyllä"))
             {
                 MessageBox.Show("Huone lisätty onnistuneesti", "Huoneen lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -64,39 +83,50 @@ namespace hotelli
 
         private void muokkaaBT_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(huonenroTB.Text) ||
+            string.IsNullOrWhiteSpace(puhelinTB.Text) ||
+            huonetyyppiCB.SelectedItem == null)
+            {
+                MessageBox.Show("Täytä kaikki kentät ennen muokkaamista.", "Puuttuvat tiedot", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!int.TryParse(huonenroTB.Text, out int numero))
+            {
+                MessageBox.Show("Huonenumero täytyy olla numero.", "Virheellinen syöte", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             int tyyppi = Convert.ToInt32(huonetyyppiCB.SelectedValue.ToString());
             String puhelin = puhelinTB.Text;
-            String vapaa = "";
-            try
+            string vapaa = kylla_RB.Checked ? "Kyllä" : "Ei";
+
+            if (huone.muokkaaHuonetta(numero, tyyppi, puhelin, vapaa))
             {
-                int numero = Convert.ToInt32(huonenroTB.Text);
-                if (kylla_RB.Checked)
-                {
-                    vapaa = "Kyllä";
-                }
-                else
-                {
-                    vapaa = "Ei";
-                }
-                if (huone.muokkaaHuonetta(numero, tyyppi, puhelin, vapaa))
-                {
-                    MessageBox.Show("Huone muokattu onnistuneesti", "Huoneen muokkaus", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                }
-                else
-                {
-                    MessageBox.Show("Huonetta ei pysty muokkaamaan", "Huoneen muokkaus", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
+                MessageBox.Show("Huone muokattu onnistuneesti", "Huoneen muokkaus", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            catch (Exception ex)
+            else
             {
-                MessageBox.Show("Virhe: " + ex.Message, "Huoneen numero virhe", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Huonetta ei pysty muokkaamaan", "Huoneen muokkaus", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
             huoneetDG.DataSource = huone.haeHuoneet();
 
         }
 
         private void poistaBT_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(huonenroTB.Text))
+            {
+                MessageBox.Show("Anna huonenumero ennen poistamista.", "Puuttuva tieto", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!int.TryParse(huonenroTB.Text, out int numero))
+            {
+                MessageBox.Show("Huonenumero täytyy olla numero.", "Virheellinen syöte", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             try
             {
                 String huonenro = huonenroTB.Text;

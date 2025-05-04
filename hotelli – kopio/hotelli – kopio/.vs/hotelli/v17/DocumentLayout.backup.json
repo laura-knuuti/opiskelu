@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\",
+  "WorkspaceRootPath": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\varaus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\varaus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\huone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\huone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\asiakas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\asiakas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\asiakas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\asiakas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\huone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\huone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\varaus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\varaus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\varaustenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\huoneidenhallinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|c:\\users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\yhdista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74CB0195-6B5E-4820-978D-041D07B483AF}|hotelli\\hotelli.csproj|solutionrelative:hotelli\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -58,151 +62,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "HuoneidenHallinta.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\HuoneidenHallinta.cs",
+              "RelativeDocumentMoniker": "hotelli\\HuoneidenHallinta.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\HuoneidenHallinta.cs",
+              "RelativeToolTip": "hotelli\\HuoneidenHallinta.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:09:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form3.cs",
               "RelativeDocumentMoniker": "hotelli\\Form3.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form3.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form3.cs",
               "RelativeToolTip": "hotelli\\Form3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T22:16:24.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VaraustenHallinta.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs",
               "RelativeDocumentMoniker": "hotelli\\VaraustenHallinta.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs",
               "RelativeToolTip": "hotelli\\VaraustenHallinta.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMoAAAAAAAAAAADwv3QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T16:39:55.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form1.cs",
               "RelativeDocumentMoniker": "hotelli\\Form1.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form1.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form1.cs",
               "RelativeToolTip": "hotelli\\Form1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T16:06:05.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Yhdista.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Yhdista.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Yhdista.cs",
               "RelativeDocumentMoniker": "hotelli\\Yhdista.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Yhdista.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Yhdista.cs",
               "RelativeToolTip": "hotelli\\Yhdista.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:47:14.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VaraustenHallinta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs",
-              "RelativeDocumentMoniker": "hotelli\\VaraustenHallinta.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs [Design]",
-              "RelativeToolTip": "hotelli\\VaraustenHallinta.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:47:13.583Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Varaus.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Varaus.cs",
-              "RelativeDocumentMoniker": "hotelli\\Varaus.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Varaus.cs",
-              "RelativeToolTip": "hotelli\\Varaus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:47:12.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:47:14.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "VaraustenHallinta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs",
+              "RelativeDocumentMoniker": "hotelli\\VaraustenHallinta.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\VaraustenHallinta.cs [Design]",
+              "RelativeToolTip": "hotelli\\VaraustenHallinta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:47:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Varaus.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Varaus.cs",
+              "RelativeDocumentMoniker": "hotelli\\Varaus.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Varaus.cs",
+              "RelativeToolTip": "hotelli\\Varaus.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:47:12.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HuoneidenHallinta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\HuoneidenHallinta.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\HuoneidenHallinta.cs",
               "RelativeDocumentMoniker": "hotelli\\HuoneidenHallinta.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\HuoneidenHallinta.cs [Design]",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\HuoneidenHallinta.cs [Design]",
               "RelativeToolTip": "hotelli\\HuoneidenHallinta.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:47:08.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Huone.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Huone.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Huone.cs",
               "RelativeDocumentMoniker": "hotelli\\Huone.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Huone.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Huone.cs",
               "RelativeToolTip": "hotelli\\Huone.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAowAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:47:07.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form3.cs",
               "RelativeDocumentMoniker": "hotelli\\Form3.cs",
               "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form3.cs [Design]",
-              "RelativeToolTip": "hotelli\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:47:05.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form2.cs",
               "RelativeDocumentMoniker": "hotelli\\Form2.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form2.cs [Design]",
               "RelativeToolTip": "hotelli\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:47:02.934Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-13T15:47:02.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form1.cs",
               "RelativeDocumentMoniker": "hotelli\\Form1.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Form1.cs [Design]",
               "RelativeToolTip": "hotelli\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:46:52.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Asiakas.cs",
-              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Asiakas.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Asiakas.cs",
               "RelativeDocumentMoniker": "hotelli\\Asiakas.cs",
-              "ToolTip": "C:\\Users\\laura\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\hotelli \u2013 kopio\\hotelli\\Asiakas.cs",
+              "ToolTip": "C:\\Users\\laura\\source\\opiskelu\\hotelli \u2013 kopio\\hotelli \u2013 kopio\\hotelli\\Asiakas.cs",
               "RelativeToolTip": "hotelli\\Asiakas.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:46:50.573Z"
             }
