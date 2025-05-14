@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NJS14 harjoitus| <%= title %></title>
+</head>
+<body>
+        <nav>
+        <div class = "sivusto">
+            <a href ="/"><h1>Hei! Olen harjoitus!</h1>
+            <p>Tämä taas on alaotsikko</p>
+        </div>
+        <ul>
+            <li><a href ="/">Blogit</a></li>
+            <li><a href ="/meista">Meistä</a></li>
+            <li><a href ="/blogit/luo">Uusi blogi</a></li>
+        </ul>
+    </nav>
+
+    <div class = "luo-blogi sisalto">
+    <form>
+        <label for = "nimi">Blogin nimi:</label>
+        <input type = "text" id = "title" required>
+        <label for = "esittely">Blogi esittely:</label>
+        <input type = "text" id = "patka" required>
+        <label for = "body">Blogin teksti:</label>
+        <textarea id = "body" required></textarea>
+        <button>Lähetä</button>
+    </form>
+    </div>
+</body>
+</html>

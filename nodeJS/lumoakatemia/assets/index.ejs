@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NJS14 harjoitus | <%= title %> </title>
+</head>
+<body>
+
+    <nav>
+        <div class = "sivusto">
+            <a href ="/"><h1>Hei! Olen harjoitus!</h1>
+            <p>Tämä taas on alaotsikko</p>
+        </div>
+        <ul>
+            <li><a href ="/">Blogit</a></li>
+            <li><a href ="/meista">Meistä</a></li>
+            <li><a href ="/blogit/luo">Uusi blogi</a></li>
+        </ul>
+    </nav>
+    
+<div class = "blogi sisalto">
+    <h2>Kaikki blogit</h2>
+
+    <% if (blogit.length > 0) { %>
+    <% blogit.forEach (blog => { %>
+
+        <h3 class = "title"><%= blog.title %></h3>
+        <p class ="esittely"><%= blog.esittely %></p>
+
+    <% }) %>
+    <% } else { %>
+        <p>Sivulla ei ole tällä hetkellä blogeja.</p>
+   <% } %>
+</div>
+</body>
+</html>

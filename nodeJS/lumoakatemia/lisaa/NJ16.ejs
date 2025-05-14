@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= Otsikko %></title>
+</head>
+<body>
+        <% if (loggedin) { %>
+        <h2>Tervetuloa takaisin!</h2>
+    <% } else { %>
+        <h2>Ole hyvä ja kirjaudu sisään.</h2>
+    <% } %>
+
+    <h1>Tämä on harjoitus.</h1>
+    <h2><%= text %></h2>
+
+
+        <h3>Eläimet:</h3>
+    <ul>
+        <% elaimet.forEach(function(elaimet) { %>
+            <li><%= elaimet %></li>
+        <% }); %>
+    </ul>
+</form>
+</body>
+</html>

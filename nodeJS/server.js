@@ -8,6 +8,12 @@ const server = http.createServer((req, res) => {
 const num = lo.random(0, 20);
 console.log(num);
 
+const greet = lo.once(() => {
+    console.log('hello');
+});
+
+greet();
+greet();
 
 //asetetaan header html-tyyppiseksi
 res.setHeader('Content-Type', 'text/html');

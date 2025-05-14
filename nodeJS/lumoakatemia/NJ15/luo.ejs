@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('NJ15head.ejs') %>
+<body>
+<%- include('nav.ejs') %>
+
+    <div class = "luo-blogi sisalto">
+    <form>
+        <label for = "nimi">Blogin nimi:</label>
+        <input type = "text" id = "title" required>
+        <label for = "esittely">Blogi esittely:</label>
+        <input type = "text" id = "patka" required>
+        <label for = "body">Blogin teksti:</label>
+        <textarea id = "body" required></textarea>
+        <button>Lähetä</button>
+    </form>
+    </div>
+    <%- include('NJ15footer.ejs') %>
+</body>
+</html>

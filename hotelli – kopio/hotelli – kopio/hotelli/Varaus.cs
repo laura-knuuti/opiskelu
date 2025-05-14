@@ -39,7 +39,6 @@ namespace hotelli
 
         }
 
-
         public bool lisaaVaraus(int hnro, int anro, DateTime sisaan, DateTime ulos)
         {
             MySqlCommand komento = new MySqlCommand();
