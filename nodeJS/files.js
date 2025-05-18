@@ -40,5 +40,5 @@ fs.mkdir('./assets', (err) => {
 }
 
 //deleting files
-
-if (fs.existsSync(.))
+/*
+if (fs.existsSync(.))*/
