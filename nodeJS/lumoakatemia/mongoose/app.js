@@ -1,6 +1,15 @@
 const express = require('express');
+const mongoose = require('mongoose');
+const kayttaja = require('./models/user');
 
 const app = express();
+
+//yhteys mongodb
+const mango = 'mongodb+srv://lauraknuuti:Sateenvarjo1987@mongocluster.ox06chx.mongodb.net/mongoDB?retryWrites=true&w=majority&appName=mongoCluster'
+
+mongoose.connect(mango)
+  .then(() => console.log('Yhdistetty MongoDB:hen'))
+  .catch((err) => console.log('Virhe yhdistäessä MongoDB:hen:', err));
 
 app.set('views', __dirname);
 app.set('view engine', 'ejs')
@@ -8,24 +17,9 @@ app.set('view engine', 'ejs')
 //kuuntelee yhteydenottoja
 app.listen(3000);
 
-
-//middleware testausta
-app.use((req, res, next) => {
-    console.log('new request made');
-    console.log('host: ', req.hostname);
-    console.log('path ', req.path);
-    console.log('method: ', req.method);
-    next();
-});
-
-app.use((req, res, next) => {
-    console.log('in the next middleware');
-    next();
-
-});
-
+//css(taustaväri...)
 app.use(express.static('public'));
-//end
+
 
 app.get('/', (req, res) => {
     const blogit =    	[
@@ -45,6 +39,32 @@ app.get('/blogit/luo', (req, res) => {
     res.render('luo', { title: 'Luo uusi blogi'  });
 })
 
-app.use((req, res) => {
-    res.status(404).render('404', { title: '404'  })
+const User = require('./models/user');
+
+// Uuden käyttäjän luonti
+app.get('/luo-kayttaja', (req, res) => {
+    console.log("Moi pääsin perille");
+  const uusiKayttaja = new User({
+    name: 'Laura',
+    age: 39,
+    email: 'laura@example.com'
+  });
+
+    uusiKayttaja.save()
+    .then((tulos) => {
+      console.log('Tallennettu käyttäjä:', tulos);
+      res.send('Käyttäjä tallennettu!');
+    })
+    .catch((err) => {
+      console.log('Virhe tallennuksessa:', err);
+      res.status(500).send('Tallennus epäonnistui.');
+    });
 });
+
+app.get('/add-user', (req, res) => {
+    const testi = new User()
+})
+
+//aina viimeiseksi
+app.use((req, res) => {
+    res.status(404).render('404', { title: '404'  }) });

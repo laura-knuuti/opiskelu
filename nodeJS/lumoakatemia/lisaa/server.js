@@ -22,7 +22,7 @@ app.get('/NJ16', (req, res) => {
 });
      });
 
-//NJ20 lomakkeelle
+     //NJ20 lomakkeelle
 app.use(express.urlencoded({ extended: true }));
 app.get('/lomake', (req, res) => {
   res.render('NJ20');
@@ -31,4 +31,29 @@ app.get('/lomake', (req, res) => {
 app.post('/lomake', (req, res) => {
   const nimi = req.body.nimi;
   res.send(`Lomake vastaanotettu`);
+});
+
+//NJ23 objekti
+app.get('/kayttaja', (req, res) => {
+    res.render('kayttaja', { kayttaja: kayttaja });
+});
+
+const kayttaja = {
+    etunimi: 'Matti',
+    sukunimi: 'Meikäläinen',
+    ika: 30,
+};
+
+app.get('/NJ23', (req, res) => {
+    res.render('NJ23', { 
+        title: 'Käyttäjätiedot',
+        kayttaja: kayttaja
+    });
+});
+
+//NJ24
+const hedelmat = ['omena', 'banaani', 'appelsiini', 'kiivi'];
+
+app.get('/NJ24', (req, res) => {
+  res.render ('NJ24', { hedelmat });
 });
